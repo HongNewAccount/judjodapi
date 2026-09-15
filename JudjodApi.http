@@ -1,0 +1,6 @@
+@JudjodApi_HostAddress = http://localhost:5168
+
+GET {{JudjodApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
